@@ -3,7 +3,7 @@
 In this project we are creating a website showing my favorite movies names along with their posters.  
 When we click on the poster the trailer of thet movie will be played in a modal and closes when we click on the space outside the modal.
 
-## How to see it ?
+## How to view it ?
 
 1. Install Python in your laptop/workstation.  
    <https://www.python.org/downloads/>  
@@ -16,7 +16,7 @@ When we click on the poster the trailer of thet movie will be played in a modal 
 5. The website will automatically pops up in your default browser.  
 6. If not open the `fresh_tomatoes.html` page that is created in the folder.
 
-## What You will see ?
+## What the view will be ?
 
 1. How the website interface looks like: 
 
