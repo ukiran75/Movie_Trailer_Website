@@ -16,7 +16,7 @@ When we click on the poster the trailer of thet movie will be played in a modal 
 5. The website will automatically pops up in your default browser.  
 6. If not open the `fresh_tomatoes.html` page that is created in the folder.
 
-## What the view will be ?
+## How the view will be ?
 
 1. How the website interface looks like: 
 
